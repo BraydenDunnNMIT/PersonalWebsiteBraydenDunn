@@ -19,7 +19,8 @@
 <br>
 
 <code> 
-Future goals / projectsCreate a landing page with a login screen,
-<code> link the login screen  to a database,</code>
-<code> style the landing page. </code>
-<code> To be continued... </code>. 
+       Future goals / projectsCreate a landing page with a login screen,
+       link the login screen  to a database,
+       style the landing page. 
+       To be continued... 
+</code>
