@@ -1,13 +1,29 @@
 
 /* My styling page that styles the HTML using CSS. */ 
 
-.title1{
-color: red;
-text-align: center;
-margin: auto;
-font-size: 3em;
+a.click_link1{
+    display: block;
+    text-decoration: none;
+    color: greenyellow;
+    border: outset white 5px;
+    font-size: 30px;
+    position:absolute;
+    bottom: 15px;
+    right: 35%;
+    border-radius: 1em;
+    margin: auto;
 }
-
 html {
     background-color: black;
+
+}
+
+.title1{
+    color: aquamarine;
+    font-size: 30px;
+    position: absolute;
+    margin: auto;
+    top: 3px;
+    left: 30%;
+
 }
