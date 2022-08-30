@@ -20,10 +20,7 @@
 
 <code> 
 Future goals / projects
-
 Create a landing page with a login screen,
 link the login screen  to a database,
 style the landing page. 
-
-To be continued...
-</code>. 
+To be continued...</code>. 
