@@ -1,0 +1,13 @@
+
+/* My styling page that styles the HTML using CSS. */ 
+
+.title1{
+color: red;
+text-align: center;
+margin: auto;
+font-size: 3em;
+}
+
+html {
+    background-color: black;
+}
