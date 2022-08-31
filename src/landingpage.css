@@ -4,8 +4,8 @@
 a.click_link1{
     display: block;
     text-decoration: none;
-    color: greenyellow;
-    border: outset white 5px;
+    color: white;
+    border: outset navajowhite 5px;
     font-size: 30px;
     position:absolute;
     bottom: 15px;
@@ -45,9 +45,15 @@ background-size: cover;
 }
 
 .login-screen1 {
-    position:fixed;
+    position:relative;
     margin: auto;
     top: 30%;
     left: 40%;
 
 }
+
+.submit-btn1 {
+    font-size: 50px;
+    position: relative;
+}
+
